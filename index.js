@@ -9,7 +9,7 @@ app.get("/" , (req, res) => {
     const response = {
         email:  "eenijeshiku@gmail.com",
         current_datetime: new Date().toISOString(),
-        github_url: "https://github.com/Hnn3y/HNG_BACKEND-STAGE-ZERO.git", 
+        github_url: "https://github.com/Hnn3y/HNG_BACKEND-STAGE-ZERO", 
     }; 
     res.json(response);
 });  
