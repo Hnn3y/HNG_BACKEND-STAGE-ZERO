@@ -1,17 +1,16 @@
 import express from "express";
 import cors from "cors";
 
-
 const app = express();
 app.use(cors()); 
 
-app.get("/" , (req, res) => {
+app.get("/", (req, res) => {
     const response = {
         email:  "eenijeshiku@gmail.com",
         current_datetime: new Date().toISOString(),
         github_url: "https://github.com/Hnn3y/HNG_BACKEND-STAGE-ZERO", 
     }; 
-    res.json(response);
+    res.json(response); // Return JSON response, not HTML
 });  
 
 const PORT = process.env.PORT || 3000;
