@@ -1,5 +1,16 @@
 {
+  "name": "hng_backend-stage-zero",
+  "version": "1.0.0",
+  "description": "Develop a public API that returns information",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HENNEiY",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {}
 }
