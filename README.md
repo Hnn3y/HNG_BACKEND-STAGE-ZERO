@@ -16,7 +16,12 @@
 
 ### API RESULTS
  curl https://hng-backend-stage-zero.vercel.app/
-{"email":"eenijeshiku@gmail.com","current_datetime":"2025-01-30T19:16:16.198Z","github_url":"https://github.com/Hnn3y/HNG_BACKEND-STAGE-ZERO"}
+
+{
+    "email":"eenijeshiku@gmail.com",
+    "current_datetime":"2025-01-30T19:16:16.198Z","
+    github_url":"https://github.com/Hnn3y/HNG_BACKEND-STAGE-ZERO"
+}
 
 
 ## To test
