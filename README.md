@@ -3,7 +3,7 @@
 
 
 ## Project Description
-This is a simple public api for HNg12 Bcakend Stage 0 task. It returns the information below in JSON FORMAT.
+*This is a simple public api for HNg12 Bcakend Stage 0 task. It returns the information below in JSON FORMAT.*
 
 #### This API returns:
 - My HNG12 registered email address.
