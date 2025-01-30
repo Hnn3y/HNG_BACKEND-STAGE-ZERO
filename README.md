@@ -25,8 +25,8 @@
 
 
 ## To test
-- Ensure you have 
-Node.js 
+- Ensure you have: 
+Node.js,
 Git
 
 1. Clone the repo. 
